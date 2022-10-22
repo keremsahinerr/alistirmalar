@@ -1,0 +1,12 @@
+Soru 1
+
+K = 0
+for x in range (19,203,3):
+   K= K + x
+print(K)
+
+Soru 12
+yıl = int(input(Lütfen doğdunuz yılı giriniz : ))
+liste = list(yıl)
+if (2005-x) == ( liste[1] + liste[2] + liste[3] + liste[4] ):
+   print(x)
